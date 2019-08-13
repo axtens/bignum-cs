@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-bignum", "cs-bignum\cs-bignum.csproj", "{0F4C41AE-516A-475F-8A98-232F6EDA90AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4C41AE-516A-475F-8A98-232F6EDA90AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4C41AE-516A-475F-8A98-232F6EDA90AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4C41AE-516A-475F-8A98-232F6EDA90AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4C41AE-516A-475F-8A98-232F6EDA90AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
